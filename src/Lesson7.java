@@ -9,7 +9,7 @@ public class Lesson7 {
     private int scr;
     private int valueInWork;
 
-    public final int logic() {
+    public int input() {
 
         System.out.println("Введите количество подходов");
         scr = scanner.nextInt();
